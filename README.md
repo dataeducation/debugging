@@ -14,7 +14,7 @@ GitHub: [@jennybc](https://github.com/jennybc)
 
 ## Slides
 
-<a href="https://speakerdeck.com/jennybc/object-of-type-closure-is-not-subsettable"><img src="debugging-title-400.jpg"></a>
+<a href="https://speakerdeck.com/jennybc/object-of-type-closure-is-not-subsettable"><img src="debugging-title-600.jpg"></a>
 
 Slides [on SpeakerDeck](https://speakerdeck.com/jennybc/object-of-type-closure-is-not-subsettable)
 
@@ -22,12 +22,9 @@ Slides [as PDF file](debugging-jenny-bryan.pdf) here in this repo
 
 ## Video
 
-The talk will be live-streamed.
+The original rstudio::conf talk was live-streamed and recorded. Video is available here:
 
-  * 9:00 AM - 10:00 AM, January 30, 2020 (Thursday, day 2 of conf)
-  * At that time, visit <https://rstudio.com/conference/> and it should be obvious how to access the stream.
-
-Video is available here: *link to come, eventually, after the conference*
+<https://resources.rstudio.com/rstudio-conf-2020/object-of-type-closure-is-not-subsettable-jenny-bryan>
 
 ## Credits and resources
 
@@ -123,21 +120,21 @@ This talk benefitted greatly from:
 
 Image credits
 
-Fret: https://unsplash.com/photos/OsC8HauR0e0
-Do same thing again: https://unsplash.com/photos/uxUUENpp01I
-Diver: https://unsplash.com/photos/wVvxjiLJr-g
-Ocean horizon background: https://unsplash.com/photos/sYzFIusQp3Q
-Calm sea background: https://unsplash.com/photos/IZ01rjX0XQA
-Coral reef background: https://unsplash.com/photos/T1Wru10gKhg
-Seaweed background: https://unsplash.com/photos/nAkC-KS444M
-Orchid: https://unsplash.com/photos/Ug6z9PCwr58
-Corn field: https://unsplash.com/photos/nCQXxsSg3oo
-On/off key: https://unsplash.com/photos/cw_uvISXkCI
-Sunlight under water background: https://unsplash.com/photos/K785Da4A_JA  
-Garnishing with sauce: https://unsplash.com/photos/YaiY50wzWzI  
-Death certificate (modified): Public Domain, https://commons.wikimedia.org/w/index.php?curid=214170  
+Fret: https://unsplash.com/photos/OsC8HauR0e0  
+Do same thing again: https://unsplash.com/photos/uxUUENpp01I  
+Diver: https://unsplash.com/photos/wVvxjiLJr-g  
+Ocean horizon background: https://unsplash.com/photos/sYzFIusQp3Q  
+Calm sea background: https://unsplash.com/photos/IZ01rjX0XQA  
+Coral reef background: https://unsplash.com/photos/T1Wru10gKhg  
+Seaweed background: https://unsplash.com/photos/nAkC-KS444M  
+Orchid: https://unsplash.com/photos/Ug6z9PCwr58  
+Corn field: https://unsplash.com/photos/nCQXxsSg3oo  
+On/off key: https://unsplash.com/photos/cw_uvISXkCI  
+Sunlight under water background: https://unsplash.com/photos/K785Da4A_JA    
+Garnishing with sauce: https://unsplash.com/photos/YaiY50wzWzI    
+Death certificate (modified): Public Domain, https://commons.wikimedia.org/w/index.php?curid=214170    
 Sunlight under water background: https://unsplash.com/photos/K785Da4A_JA
-Washing pot: https://unsplash.com/photos/-VhH4S1Lur8
-The Night King: https://cnet4.cbsistatic.com/img/vugy5MvUVBvwcJf0JvKIBd1RwJE=/1200x675/2019/04/22/2b2fee8d-111a-4d19-ae83-4e61899cfd47/1nightking.jpg (probably copyright HBO)
-Autopsy painting by Rembrandt: https://www.mauritshuis.nl/en/explore/the-collection/artworks/the-anatomy-lesson-of-dr-nicolaes-tulp-146/detailgegevens/ Public Domain, https://commons.wikimedia.org/w/index.php?curid=64281722
-Gray cube abstract wallpaper vector art https://unsplash.com/photos/1CVy8JStf3A
+Washing pot: https://unsplash.com/photos/-VhH4S1Lur8  
+The Night King: https://cnet4.cbsistatic.com/img/vugy5MvUVBvwcJf0JvKIBd1RwJE=/1200x675/2019/04/22/2b2fee8d-111a-4d19-ae83-4e61899cfd47/1nightking.jpg (probably copyright HBO)  
+Autopsy painting by Rembrandt: https://www.mauritshuis.nl/en/explore/the-collection/artworks/the-anatomy-lesson-of-dr-nicolaes-tulp-146/detailgegevens/ Public Domain, https://commons.wikimedia.org/w/index.php?curid=64281722  
+Gray cube abstract wallpaper vector art https://unsplash.com/photos/1CVy8JStf3A  
